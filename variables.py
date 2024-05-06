@@ -14,6 +14,6 @@ new_savings = monthly_savings * num_months
 #Add new_savings to savings
 total_savings = new_savings + savings 
 
-
 #Print total_savings
+print(total_savings) 
 print(total_savings)
